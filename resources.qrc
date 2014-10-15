@@ -1,0 +1,118 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/main.qml</file>
+        <file>qml/TitleBar.qml</file>
+        <file>qml/Theme.qml</file>
+        <file>qml/Page.qml</file>
+        <file>qml/MusicPage.qml</file>
+        <file>qml/PlaybackControls.qml</file>
+        <file>qml/ImageButton.qml</file>
+        <file>qml/ListDelegate.qml</file>
+        <file>qml/MainPage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="ad">resources/images/bands/ad.jpg</file>
+        <file alias="am">resources/images/bands/am.jpg</file>
+        <file alias="av">resources/images/bands/av.jpg</file>
+        <file alias="cp">resources/images/bands/cp.jpg</file>
+        <file alias="ch">resources/images/bands/ch.jpg</file>
+        <file alias="dp">resources/images/bands/dp.jpg</file>
+        <file alias="ff">resources/images/bands/ff.jpg</file>
+        <file alias="rh">resources/images/bands/rh.jpg</file>
+        <file alias="ze">resources/images/bands/ze.jpg</file>
+        <file alias="ld">resources/images/bands/ld.jpg</file>
+        <file alias="ki">resources/images/bands/ki.jpg</file>
+        <file alias="id">resources/images/bands/id.jpg</file>
+        <file alias="tt">resources/images/bands/tt.jpg</file>
+        <file alias="yy">resources/images/bands/yy.jpg</file>
+        <file alias="lr">resources/images/bands/lr.jpg</file>
+        <file alias="ws">resources/images/bands/ws.jpg</file>
+        <file alias="ad-small">resources/images/bands/ad-small.jpg</file>
+        <file alias="am-small">resources/images/bands/am-small.jpg</file>
+        <file alias="av-small">resources/images/bands/av-small.jpg</file>
+        <file alias="cp-small">resources/images/bands/cp-small.jpg</file>
+        <file alias="ch-small">resources/images/bands/ch-small.jpg</file>
+        <file alias="dp-small">resources/images/bands/dp-small.jpg</file>
+        <file alias="ff-small">resources/images/bands/ff-small.jpg</file>
+        <file alias="rh-small">resources/images/bands/rh-small.jpg</file>
+        <file alias="ze-small">resources/images/bands/ze-small.jpg</file>
+        <file alias="ld-small">resources/images/bands/ld-small.jpg</file>
+        <file alias="ki-small">resources/images/bands/ki-small.jpg</file>
+        <file alias="id-small">resources/images/bands/id-small.jpg</file>
+        <file alias="tt-small">resources/images/bands/tt-small.jpg</file>
+        <file alias="yy-small">resources/images/bands/yy-small.jpg</file>
+        <file alias="lr-small">resources/images/bands/lr-small.jpg</file>
+        <file alias="ws-small">resources/images/bands/ws-small.jpg</file>
+        <file alias="icon">resources/images/icon.svg</file>
+        <file alias="bg-0">resources/images/bg-0.jpg</file>
+        <file alias="bg-0-landscape">resources/images/bg-0-landscape.jpg</file>
+        <file alias="bg-1">resources/images/bg-1.jpg</file>
+        <file alias="bg-1-landscape">resources/images/bg-1-landscape.jpg</file>
+        <file alias="back">resources/images/back.svg</file>
+        <file alias="download">resources/images/download.svg</file>
+        <file alias="play">resources/images/play.svg</file>
+        <file alias="pause">resources/images/pause.svg</file>
+        <file alias="busy">resources/images/busy.svg</file>
+        <file alias="busy_dark">resources/images/busy_dark.svg</file>
+    </qresource>
+    <qresource prefix="/images/ldpi">
+        <file alias="icon">android/res/drawable-ldpi/icon.png</file>
+        <file alias="back">resources/images/drawable-ldpi/back.png</file>
+        <file alias="download">resources/images/drawable-ldpi/download.png</file>
+        <file alias="play">resources/images/drawable-ldpi/play.png</file>
+        <file alias="pause">resources/images/drawable-ldpi/pause.png</file>
+        <file alias="busy">resources/images/drawable-ldpi/busy.png</file>
+        <file alias="busy_dark">resources/images/drawable-ldpi/busy_dark.png</file>
+    </qresource>
+    <qresource prefix="/images/mdpi">
+        <file alias="icon">android/res/drawable-mdpi/icon.png</file>
+        <file alias="back">resources/images/drawable-mdpi/back.png</file>
+        <file alias="download">resources/images/drawable-mdpi/download.png</file>
+        <file alias="play">resources/images/drawable-mdpi/play.png</file>
+        <file alias="pause">resources/images/drawable-mdpi/pause.png</file>
+        <file alias="busy">resources/images/drawable-mdpi/busy.png</file>
+        <file alias="busy_dark">resources/images/drawable-mdpi/busy_dark.png</file>
+    </qresource>
+    <qresource prefix="/images/hdpi">
+        <file alias="icon">android/res/drawable-hdpi/icon.png</file>
+        <file alias="back">resources/images/drawable-hdpi/back.png</file>
+        <file alias="download">resources/images/drawable-hdpi/download.png</file>
+        <file alias="play">resources/images/drawable-hdpi/play.png</file>
+        <file alias="pause">resources/images/drawable-hdpi/pause.png</file>
+        <file alias="busy">resources/images/drawable-hdpi/busy.png</file>
+        <file alias="busy_dark">resources/images/drawable-hdpi/busy_dark.png</file>
+    </qresource>
+    <qresource prefix="/images/xhdpi">
+        <file alias="icon">android/res/drawable-xhdpi/icon.png</file>
+        <file alias="back">resources/images/drawable-xhdpi/back.png</file>
+        <file alias="download">resources/images/drawable-xhdpi/download.png</file>
+        <file alias="play">resources/images/drawable-xhdpi/play.png</file>
+        <file alias="pause">resources/images/drawable-xhdpi/pause.png</file>
+        <file alias="busy">resources/images/drawable-xhdpi/busy.png</file>
+        <file alias="busy_dark">resources/images/drawable-xhdpi/busy_dark.png</file>
+    </qresource>
+    <qresource prefix="/images/xxhdpi">
+        <file alias="icon">android/res/drawable-xxhdpi/icon.png</file>
+        <file alias="back">resources/images/drawable-xxhdpi/back.png</file>
+        <file alias="download">resources/images/drawable-xxhdpi/download.png</file>
+        <file alias="play">resources/images/drawable-xxhdpi/play.png</file>
+        <file alias="pause">resources/images/drawable-xxhdpi/pause.png</file>
+        <file alias="busy">resources/images/drawable-xxhdpi/busy.png</file>
+        <file alias="busy_dark">resources/images/drawable-xxhdpi/busy_dark.png</file>
+    </qresource>
+    <qresource prefix="/images/xxxhdpi">
+        <file alias="icon">android/res/drawable-xxxhdpi/icon.png</file>
+        <file alias="back">resources/images/drawable-xxxhdpi/back.png</file>
+        <file alias="download">resources/images/drawable-xxxhdpi/download.png</file>
+        <file alias="play">resources/images/drawable-xxxhdpi/play.png</file>
+        <file alias="pause">resources/images/drawable-xxxhdpi/pause.png</file>
+        <file alias="busy">resources/images/drawable-xxxhdpi/busy.png</file>
+        <file alias="busy_dark">resources/images/drawable-xxxhdpi/busy_dark.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>resources/fonts/Muli-Regular.ttf</file>
+        <file>resources/fonts/Muli-LightItalic.ttf</file>
+        <file>resources/fonts/Muli-Light.ttf</file>
+        <file>resources/fonts/Muli-Italic.ttf</file>
+    </qresource>
+</RCC>
